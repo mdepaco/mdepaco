@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdepaco
 - 👀 I’m interested in privacy, FOSS and programming.
-- 🌱 I’m currently learning PHP, MySQL, Java and I'm also studing Computer Engineering at UOC.
+- 🌱 I studied Computer Engineering at UOC.
 - 💞️ I’m looking to collaborate and learn new things!
 - 📫 How to reach me: Github!
 
